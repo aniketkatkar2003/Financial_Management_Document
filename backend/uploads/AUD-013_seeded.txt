@@ -1,0 +1,21 @@
+REPORT 13: FIXED ASSET AUDIT REPORT
+
+REPORT_ID: AUD-013
+REPORT_TYPE: Fixed Asset Audit
+REPORT_DATE: 2026-04-21
+STATUS: Approved
+
+REPORT_SUMMARY:
+The audit evaluated office infrastructure, technology equipment, and long-term capital assets.
+
+KEY_FINDINGS:
+
+1. Asset depreciation schedules were accurately maintained.
+2. Certain leased assets lacked updated documentation.
+3. Capital expenditure tracking improved after ERP automation.
+4. Physical asset verification matched accounting records.
+
+RECOMMENDATIONS:
+
+* Improve leased asset documentation.
+* Maintain centralized fixed asset registers.

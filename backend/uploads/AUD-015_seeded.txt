@@ -1,0 +1,21 @@
+REPORT 15: OPERATIONAL AUDIT REPORT
+
+REPORT_ID: AUD-015
+REPORT_TYPE: Operational Audit
+REPORT_DATE: 2026-04-27
+STATUS: Completed
+
+REPORT_SUMMARY:
+The Operational Audit assessed workflow efficiency, resource allocation, and operational governance across departments.
+
+KEY_FINDINGS:
+
+1. AI automation improved workflow productivity.
+2. Manual approval delays impacted operational efficiency.
+3. ERP integrations reduced administrative workload.
+4. Operational KPIs exceeded projected targets.
+
+RECOMMENDATIONS:
+
+* Expand AI-driven automation.
+* Improve cross-departmental coordination.

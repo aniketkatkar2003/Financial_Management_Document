@@ -1,0 +1,168 @@
+====================================================================
+NMAP INFOTECH
+COMPANY VALUATION: INR 3000 CRORE
+TAX & COMPLIANCE REPORT DATASET
+====================================================================
+
+====================================================================
+REPORT 01: GST FILING SUMMARY REPORT
+====================================================================
+
+REPORT_ID: TAX-001
+REPORT_TYPE: GST Filing Summary Report
+COMPANY_NAME: NMap InfoTech
+FINANCIAL_YEAR: FY 2025-26
+REPORT_DATE: 2026-03-31
+STATUS: Filed Successfully
+
+EXECUTIVE_SUMMARY:
+The GST Filing Summary Report provides a detailed overview of taxable sales, input tax credits, GST liabilities, vendor invoice reconciliation, and statutory compliance obligations for FY 2025-26.
+
+GST_REGISTRATION_DETAILS:
+GSTIN: 27AABCN4587P1ZX
+STATE: Maharashtra
+BUSINESS_TYPE: Information Technology Services
+
+FINANCIAL_GST_DATA:
+TOTAL_TAXABLE_SUPPLIES: INR 1280 CRORE
+TOTAL_EXPORT_SERVICES: INR 312 CRORE
+INPUT_TAX_CREDIT_CLAIMED: INR 86 CRORE
+OUTPUT_GST_LIABILITY: INR 142 CRORE
+NET_GST_PAYABLE: INR 56 CRORE
+
+KEY_COMPLIANCE_OBSERVATIONS:
+1. Monthly GST filings were completed within statutory deadlines.
+2. Vendor invoice reconciliation achieved 98 percent accuracy.
+3. Input tax credit claims matched procurement records.
+4. Export invoices complied with zero-rated supply requirements.
+5. Automated GST dashboards improved compliance visibility.
+
+RISK_AREAS_IDENTIFIED:
+1. Delayed vendor invoice uploads affected reconciliation timelines.
+2. Minor mismatches were identified in reverse charge transactions.
+3. Interstate service classifications required additional review.
+
+RECOMMENDATIONS:
+- Automate GST reconciliation workflows.
+- Improve vendor GST verification systems.
+- Enable AI-based anomaly detection for tax filings.
+
+====================================================================
+REPORT 02: CORPORATE TAX COMPLIANCE REPORT
+====================================================================
+
+REPORT_ID: TAX-002
+REPORT_TYPE: Corporate Tax Compliance Report
+COMPANY_NAME: NMap InfoTech
+FINANCIAL_YEAR: FY 2025-26
+REPORT_DATE: 2026-03-31
+STATUS: Approved
+
+EXECUTIVE_SUMMARY:
+The Corporate Tax Compliance Report evaluated corporate tax obligations, statutory deductions, regulatory filings, and compliance adherence for FY 2025-26.
+
+CORPORATE_FINANCIAL_DATA:
+TOTAL_ANNUAL_REVENUE: INR 1280 CRORE
+PROFIT_BEFORE_TAX: INR 292 CRORE
+CORPORATE_TAX_RATE: 25 PERCENT
+TOTAL_TAX_PROVISION: INR 73 CRORE
+ADVANCE_TAX_PAID: INR 68 CRORE
+OUTSTANDING_TAX_LIABILITY: INR 5 CRORE
+
+KEY_COMPLIANCE_HIGHLIGHTS:
+1. Advance tax payments were submitted on schedule.
+2. Corporate tax returns complied with Indian tax regulations.
+3. TDS deductions aligned with payroll and vendor transactions.
+4. Statutory audit documentation was maintained accurately.
+5. Digital compliance systems improved filing transparency.
+
+COMPLIANCE_RISK_ANALYSIS:
+1. Increased regulatory scrutiny for export service taxation.
+2. Requirement for stronger transfer pricing documentation.
+3. Dependency on timely vendor tax certificate submissions.
+
+RECOMMENDATIONS:
+- Maintain centralized tax documentation systems.
+- Strengthen transfer pricing audit procedures.
+- Improve automation in statutory reporting workflows.
+
+====================================================================
+REPORT 03: INCOME TAX ASSESSMENT REPORT
+====================================================================
+
+REPORT_ID: TAX-003
+REPORT_TYPE: Income Tax Assessment Report
+COMPANY_NAME: NMap InfoTech
+ASSESSMENT_YEAR: AY 2026-27
+REPORT_DATE: 2026-04-05
+STATUS: Assessed
+
+EXECUTIVE_SUMMARY:
+The Income Tax Assessment Report reviewed taxable income, deductions, depreciation schedules, and tax compliance procedures for the assessment year 2026-27.
+
+INCOME_TAX_FINANCIAL_DATA:
+GROSS_TOTAL_INCOME: INR 1280 CRORE
+ALLOWABLE_BUSINESS_EXPENSES: INR 864 CRORE
+DEPRECIATION_CLAIMED: INR 52 CRORE
+TAXABLE_INCOME: INR 292 CRORE
+TOTAL_INCOME_TAX: INR 73 CRORE
+
+KEY_FINDINGS:
+1. Taxable income calculations aligned with audited financial statements.
+2. Depreciation schedules complied with statutory provisions.
+3. R&D expenditure qualified for eligible tax deductions.
+4. Export-related tax exemptions were properly documented.
+5. Tax records matched ERP financial data.
+
+RISK_OBSERVATIONS:
+1. Potential scrutiny for software licensing revenue classification.
+2. Requirement for enhanced documentation of international transactions.
+3. Delayed vendor tax certificate updates.
+
+RECOMMENDATIONS:
+- Improve digital tax record retention.
+- Conduct quarterly tax reconciliation reviews.
+- Maintain stronger documentation for export contracts.
+
+====================================================================
+REPORT 04: TAX LIABILITY ANALYSIS REPORT
+====================================================================
+
+REPORT_ID: TAX-004
+REPORT_TYPE: Tax Liability Analysis Report
+COMPANY_NAME: NMap InfoTech
+FINANCIAL_YEAR: FY 2025-26
+REPORT_DATE: 2026-04-10
+STATUS: Verified
+
+EXECUTIVE_SUMMARY:
+The Tax Liability Analysis Report analyzed direct and indirect tax obligations, projected liabilities, deferred tax exposure, and future compliance risks.
+
+TAX_LIABILITY_BREAKDOWN:
+CORPORATE_TAX_LIABILITY: INR 73 CRORE
+GST_LIABILITY: INR 56 CRORE
+TDS_LIABILITY: INR 18 CRORE
+PROFESSIONAL_TAX_LIABILITY: INR 2.4 CRORE
+DEFERRED_TAX_LIABILITY: INR 14 CRORE
+
+TOTAL_TAX_LIABILITY:
+INR 163.4 CRORE
+
+KEY_ANALYSIS:
+1. Corporate tax obligations remained within projected estimates.
+2. GST liabilities increased due to enterprise revenue growth.
+3. Deferred tax liabilities increased after infrastructure expansion.
+4. TDS deductions aligned with payroll processing systems.
+5. Treasury planning maintained sufficient tax reserves.
+
+FINANCIAL_RISK_FACTORS:
+1. Regulatory changes affecting SaaS taxation policies.
+2. Increased compliance obligations for international operations.
+3. Dependency on accurate vendor tax reporting.
+
+TREASURY_AND_COMPLIANCE_ACTIONS:
+- Maintained dedicated tax reserve accounts.
+- Automated tax liability forecasting systems.
+- Improved ERP integration for tax reconciliation.
+- Implemented AI-based compliance monitoring dashboards.
+

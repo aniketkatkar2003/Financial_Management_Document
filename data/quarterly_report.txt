@@ -1,0 +1,201 @@
+====================================================================
+NMAP INFOTECH
+COMPANY VALUATION: INR 3000 CRORE
+QUARTERLY FINANCIAL REPORT DATASET
+====================================================================
+
+====================================================================
+REPORT 01: Q1 FINANCIAL PERFORMANCE REPORT
+====================================================================
+
+REPORT_ID: QTR-001
+REPORT_TYPE: Q1 Financial Performance Report
+COMPANY_NAME: NMap InfoTech
+QUARTER: Q1 FY 2025-26
+REPORT_DATE: 2025-06-30
+STATUS: Approved
+
+EXECUTIVE_SUMMARY:
+NMap InfoTech delivered strong financial performance during Q1 FY 2025-26 supported by increased enterprise cloud adoption and expansion in AI-driven analytics services.
+
+KEY_FINANCIAL_METRICS:
+TOTAL_REVENUE: INR 284 CRORE
+NET_PROFIT: INR 48 CRORE
+EBITDA: INR 74 CRORE
+EBITDA_MARGIN: 26 PERCENT
+OPERATING_CASH_FLOW: INR 58 CRORE
+
+BUSINESS_HIGHLIGHTS:
+1. Cloud infrastructure revenue increased by 18 percent.
+2. Enterprise AI projects generated high-value contracts.
+3. Cybersecurity consulting demand improved recurring revenue.
+4. SaaS subscription renewals exceeded quarterly targets.
+5. International client acquisition increased across UAE and Singapore.
+
+OPERATIONAL_PERFORMANCE:
+- ERP modernization improved workflow efficiency.
+- Vendor procurement costs reduced by 7 percent.
+- AI automation reduced manual reporting overhead.
+- Treasury reserves remained stable.
+
+RISK_FACTORS:
+1. Delayed payments from overseas enterprise clients.
+2. Rising cloud hosting infrastructure expenses.
+3. Increased employee acquisition costs.
+
+MANAGEMENT_RECOMMENDATIONS:
+- Strengthen receivable collection systems.
+- Expand AI product portfolio.
+- Improve vendor payment scheduling.
+
+====================================================================
+REPORT 02: Q2 REVENUE AND PROFITABILITY REPORT
+====================================================================
+
+REPORT_ID: QTR-002
+REPORT_TYPE: Q2 Revenue and Profitability Report
+COMPANY_NAME: NMap InfoTech
+QUARTER: Q2 FY 2025-26
+REPORT_DATE: 2025-09-30
+STATUS: Verified
+
+EXECUTIVE_SUMMARY:
+Q2 FY 2025-26 recorded improved profitability due to enterprise digital transformation projects and operational efficiency optimization initiatives.
+
+KEY_FINANCIAL_METRICS:
+TOTAL_REVENUE: INR 312 CRORE
+NET_PROFIT: INR 58 CRORE
+EBITDA: INR 88 CRORE
+EBITDA_MARGIN: 28 PERCENT
+GROSS_PROFIT_MARGIN: 41 PERCENT
+
+REVENUE_BREAKDOWN:
+AI_SOLUTIONS_REVENUE: INR 118 CRORE
+CLOUD_SERVICES_REVENUE: INR 92 CRORE
+CYBERSECURITY_REVENUE: INR 54 CRORE
+CONSULTING_REVENUE: INR 48 CRORE
+
+KEY_OBSERVATIONS:
+1. Revenue increased by 10 percent compared to Q1.
+2. EBITDA margins improved after operational automation.
+3. Procurement optimization reduced infrastructure expenses.
+4. Customer retention improved recurring subscription income.
+5. Treasury operations maintained positive liquidity.
+
+OPERATIONAL_HIGHLIGHTS:
+- AI-based analytics products expanded across BFSI sector.
+- Vendor negotiations reduced procurement costs.
+- Automated financial dashboards improved reporting efficiency.
+- Cloud migration projects generated strong enterprise demand.
+
+RISK_ANALYSIS:
+1. Increased cybersecurity compliance expenditure.
+2. Delayed invoice approvals from large clients.
+3. Dependence on enterprise software licensing revenue.
+
+RECOMMENDATIONS:
+- Diversify enterprise customer portfolio.
+- Improve treasury forecasting accuracy.
+- Expand international consulting services.
+
+====================================================================
+REPORT 03: Q3 OPERATIONAL FINANCE REVIEW
+====================================================================
+
+REPORT_ID: QTR-003
+REPORT_TYPE: Q3 Operational Finance Review
+COMPANY_NAME: NMap InfoTech
+QUARTER: Q3 FY 2025-26
+REPORT_DATE: 2025-12-31
+STATUS: Completed
+
+EXECUTIVE_SUMMARY:
+The Q3 Operational Finance Review focused on cost optimization, operational efficiency, and financial governance improvements across enterprise divisions.
+
+KEY_FINANCIAL_METRICS:
+TOTAL_REVENUE: INR 336 CRORE
+NET_PROFIT: INR 64 CRORE
+EBITDA: INR 97 CRORE
+OPERATING_MARGIN: 29 PERCENT
+WORKING_CAPITAL_UTILIZATION: Stable
+
+OPERATIONAL_ANALYSIS:
+1. AI automation reduced administrative operational expenses.
+2. ERP integrations improved financial transparency.
+3. Cloud infrastructure optimization reduced maintenance costs.
+4. Treasury reserves supported expansion activities.
+5. Employee productivity improved due to workflow digitization.
+
+FINANCE_OPERATIONS_REVIEW:
+- Accounts receivable collections improved by 12 percent.
+- Vendor reconciliation reduced invoice disputes.
+- Procurement approval workflows became fully digital.
+- Compliance dashboards improved regulatory monitoring.
+
+RISK_ASSESSMENT:
+1. Delayed receivables impacted short-term liquidity.
+2. Rising cybersecurity insurance premiums.
+3. Increased operational costs from international expansion.
+
+RECOMMENDATIONS:
+- Maintain operational cost optimization.
+- Expand AI-based finance monitoring systems.
+- Improve global compliance reporting workflows.
+
+====================================================================
+REPORT 04: Q4 ANNUAL CLOSING REPORT
+====================================================================
+
+REPORT_ID: QTR-004
+REPORT_TYPE: Q4 Annual Closing Report
+COMPANY_NAME: NMap InfoTech
+QUARTER: Q4 FY 2025-26
+REPORT_DATE: 2026-03-31
+STATUS: Approved
+
+EXECUTIVE_SUMMARY:
+Q4 FY 2025-26 concluded with strong financial growth, increased enterprise market share, and successful execution of strategic expansion initiatives.
+
+KEY_FINANCIAL_METRICS:
+TOTAL_REVENUE: INR 348 CRORE
+NET_PROFIT: INR 72 CRORE
+EBITDA: INR 99 CRORE
+EBITDA_MARGIN: 29 PERCENT
+ANNUAL_RECURRING_REVENUE: INR 620 CRORE
+
+ANNUAL_CLOSING_HIGHLIGHTS:
+1. Annual revenue crossed INR 1280 CRORE.
+2. EBITDA margins improved consistently across all quarters.
+3. Cloud computing division achieved record enterprise growth.
+4. AI-driven automation reduced operational expenditure.
+5. Enterprise SaaS subscriptions increased recurring revenue streams.
+
+TREASURY_AND_CASH_FLOW:
+OPERATING_CASH_RESERVES: INR 480 CRORE
+SHORT_TERM_INVESTMENTS: INR 96 CRORE
+BANKING_RELATIONSHIPS: Stable
+LIQUIDITY_STATUS: Healthy
+
+BUSINESS_SEGMENT_PERFORMANCE:
+AI_SOLUTIONS_DIVISION:
+- Revenue Growth: 24 Percent
+- EBITDA Margin: 34 Percent
+
+CLOUD_SERVICES_DIVISION:
+- Revenue Growth: 19 Percent
+- EBITDA Margin: 28 Percent
+
+CYBERSECURITY_DIVISION:
+- Revenue Growth: 16 Percent
+- EBITDA Margin: 31 Percent
+
+CONSULTING_DIVISION:
+- Revenue Growth: 11 Percent
+- EBITDA Margin: 22 Percent
+
+KEY_RISKS_IDENTIFIED:
+1. Global economic uncertainty affecting enterprise spending.
+2. Increasing cybersecurity compliance costs.
+3. Delayed collections from overseas customers.
+4. Competitive pricing pressure in SaaS market.
+

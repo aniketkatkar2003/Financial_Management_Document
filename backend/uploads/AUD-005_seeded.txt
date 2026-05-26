@@ -1,0 +1,23 @@
+REPORT 05: RISK-BASED AUDIT REPORT
+
+REPORT_ID: AUD-005
+REPORT_TYPE: Risk-Based Audit
+REPORT_DATE: 2026-03-28
+STATUS: Completed
+
+REPORT_SUMMARY:
+The Risk Management Division analyzed operational, financial, and compliance risks affecting NMap InfoTech.
+
+KEY_RISKS_IDENTIFIED:
+
+1. Increased cybersecurity exposure in cloud infrastructure.
+2. Vendor dependency risk in software procurement.
+3. Revenue concentration risk from enterprise clients.
+4. Delayed invoice collections affecting liquidity.
+5. Data privacy compliance obligations under global regulations.
+
+RECOMMENDATIONS:
+
+* Diversify enterprise customer portfolio.
+* Strengthen cybersecurity monitoring.
+* Automate receivable collection reminders.

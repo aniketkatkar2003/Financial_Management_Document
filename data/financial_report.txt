@@ -1,0 +1,296 @@
+====================================================================
+NMAP INFOTECH
+COMPANY VALUATION: INR 3000 CRORE
+FINANCIAL REPORT DATASET
+====================================================================
+
+REPORT 01: ANNUAL FINANCIAL REPORT
+====================================================================
+
+REPORT_ID: FIN-001
+REPORT_TYPE: Annual Financial Report
+COMPANY_NAME: NMap InfoTech
+FINANCIAL_YEAR: FY 2025-26
+PREPARED_BY: Corporate Finance Division
+REPORT_DATE: 2026-03-31
+STATUS: Approved
+
+EXECUTIVE_SUMMARY:
+NMap InfoTech achieved significant business growth during FY 2025-26, driven by expansion in enterprise AI solutions, cloud infrastructure services, and cybersecurity consulting operations. The company strengthened its market position across India, the Middle East, and Southeast Asia.
+
+KEY_FINANCIAL_HIGHLIGHTS:
+TOTAL_REVENUE: INR 1280 CRORE
+NET_PROFIT: INR 242 CRORE
+EBITDA: INR 358 CRORE
+OPERATING_MARGIN: 28 PERCENT
+TOTAL_ASSETS: INR 3520 CRORE
+TOTAL_LIABILITIES: INR 980 CRORE
+NET_WORTH: INR 2540 CRORE
+
+BUSINESS_PERFORMANCE:
+1. Cloud computing services contributed 38 percent of annual revenue.
+2. Enterprise AI product adoption increased by 26 percent.
+3. Cybersecurity consulting generated strong recurring revenue.
+4. International business operations expanded successfully.
+5. SaaS subscription revenue improved overall profitability.
+
+RISK_FACTORS:
+1. Rising cloud infrastructure costs.
+2. Delayed receivables from enterprise customers.
+3. Increasing cybersecurity compliance obligations.
+4. Currency fluctuation exposure in export contracts.
+
+STRATEGIC_RECOMMENDATIONS:
+- Expand AI product portfolio.
+- Increase automation in finance operations.
+- Strengthen receivable collection procedures.
+- Improve treasury risk management.
+
+====================================================================
+REPORT 02: QUARTERLY FINANCIAL PERFORMANCE REPORT
+====================================================================
+
+REPORT_ID: FIN-002
+REPORT_TYPE: Quarterly Financial Performance Report
+QUARTER: Q4 FY 2025-26
+REPORT_DATE: 2026-03-31
+STATUS: Verified
+
+QUARTERLY_SUMMARY:
+NMap InfoTech recorded strong quarterly growth supported by increased demand for enterprise digital transformation services and AI-powered analytics platforms.
+
+KEY_METRICS:
+QUARTERLY_REVENUE: INR 348 CRORE
+QUARTERLY_NET_PROFIT: INR 68 CRORE
+EBITDA_MARGIN: 29 PERCENT
+OPERATING_CASH_FLOW: INR 92 CRORE
+
+KEY_OBSERVATIONS:
+1. Revenue increased by 14 percent compared to previous quarter.
+2. EBITDA improved because of optimized operational expenditure.
+3. Large enterprise contracts improved recurring revenue.
+4. Working capital utilization remained stable.
+5. Customer acquisition increased across BFSI and healthcare sectors.
+
+OPERATIONAL_HIGHLIGHTS:
+- AI automation reduced manual operational costs.
+- ERP modernization improved reporting efficiency.
+- Vendor contract renegotiation reduced procurement expenses.
+- Cloud migration services generated high demand.
+
+FINANCIAL_RISKS:
+1. Delayed customer payments from overseas clients.
+2. Higher cybersecurity compliance expenditure.
+3. Increased employee retention costs.
+
+RECOMMENDATIONS:
+- Improve accounts receivable monitoring.
+- Expand AI infrastructure investment.
+- Strengthen liquidity reserves.
+
+====================================================================
+REPORT 03: MONTHLY FINANCIAL SUMMARY REPORT
+====================================================================
+
+REPORT_ID: FIN-003
+REPORT_TYPE: Monthly Financial Summary Report
+MONTH: March 2026
+REPORT_DATE: 2026-03-31
+STATUS: Completed
+
+MONTHLY_SUMMARY:
+The finance department reported stable operational performance during March 2026 with improved cash collections and strong software licensing revenue.
+
+FINANCIAL_DATA:
+MONTHLY_REVENUE: INR 112 CRORE
+MONTHLY_EXPENSES: INR 78 CRORE
+MONTHLY_PROFIT: INR 21 CRORE
+OPERATING_CASH_INFLOW: INR 34 CRORE
+OPERATING_CASH_OUTFLOW: INR 24 CRORE
+
+KEY_HIGHLIGHTS:
+1. SaaS subscription renewals exceeded expectations.
+2. Treasury operations maintained healthy liquidity.
+3. Procurement costs reduced after vendor negotiations.
+4. Cloud infrastructure expenses remained controlled.
+5. Employee productivity increased after workflow automation.
+
+MONTHLY_RISKS:
+- Delay in enterprise invoice approvals.
+- Increase in cloud server maintenance expenses.
+- Short-term fluctuations in operational cash flow.
+
+MANAGEMENT_ACTIONS:
+- Automated invoice approval workflows.
+- Strengthened vendor payment tracking.
+- Improved expense monitoring systems.
+
+====================================================================
+REPORT 04: CASH FLOW ANALYSIS REPORT
+====================================================================
+
+REPORT_ID: FIN-004
+REPORT_TYPE: Cash Flow Analysis Report
+REPORT_DATE: 2026-03-31
+STATUS: Approved
+
+CASH_FLOW_SUMMARY:
+The company maintained positive cash flow throughout FY 2025-26 supported by strong enterprise collections and recurring SaaS revenue streams.
+
+OPERATING_CASH_FLOW:
+TOTAL_OPERATING_CASH_INFLOW: INR 620 CRORE
+TOTAL_OPERATING_CASH_OUTFLOW: INR 412 CRORE
+NET_OPERATING_CASH_FLOW: INR 208 CRORE
+
+INVESTING_CASH_FLOW:
+CAPITAL_EXPENDITURE: INR 148 CRORE
+AI_INFRASTRUCTURE_INVESTMENT: INR 72 CRORE
+CLOUD_DATA_CENTER_EXPENSE: INR 38 CRORE
+
+FINANCING_CASH_FLOW:
+BANK_LOAN_REPAYMENTS: INR 64 CRORE
+INTEREST_PAYMENTS: INR 18 CRORE
+DIVIDEND_DISTRIBUTION: INR 32 CRORE
+
+KEY_FINDINGS:
+1. Positive operational cash flow improved liquidity.
+2. Expansion investments increased capital expenditure.
+3. Delayed receivables affected short-term treasury planning.
+4. Banking relationships supported financing flexibility.
+
+RECOMMENDATIONS:
+- Maintain minimum liquidity reserves.
+- Improve receivable collection efficiency.
+- Optimize infrastructure investment planning.
+
+====================================================================
+REPORT 05: PROFIT AND LOSS STATEMENT
+====================================================================
+
+REPORT_ID: FIN-005
+REPORT_TYPE: Profit and Loss Statement
+FINANCIAL_YEAR: FY 2025-26
+STATUS: Approved
+
+REVENUE:
+Software Services Revenue: INR 540 CRORE
+Cloud Solutions Revenue: INR 320 CRORE
+Cybersecurity Revenue: INR 210 CRORE
+Consulting Revenue: INR 145 CRORE
+Other Income: INR 65 CRORE
+
+TOTAL_REVENUE:
+INR 1280 CRORE
+
+OPERATING_EXPENSES:
+Employee Salaries: INR 420 CRORE
+Cloud Infrastructure Costs: INR 168 CRORE
+Marketing Expenses: INR 72 CRORE
+Administrative Expenses: INR 58 CRORE
+Technology Licensing: INR 94 CRORE
+Depreciation Expenses: INR 52 CRORE
+
+TOTAL_OPERATING_EXPENSES:
+INR 864 CRORE
+
+EBITDA:
+INR 358 CRORE
+
+NET_PROFIT_BEFORE_TAX:
+INR 292 CRORE
+
+TAX_EXPENSE:
+INR 50 CRORE
+
+NET_PROFIT_AFTER_TAX:
+INR 242 CRORE
+
+KEY_ANALYSIS:
+1. Revenue growth improved profitability.
+2. Cloud optimization reduced operational costs.
+3. SaaS products increased recurring income.
+4. Employee costs remained stable despite expansion.
+
+====================================================================
+REPORT 06: BALANCE SHEET REPORT
+====================================================================
+
+REPORT_ID: FIN-006
+REPORT_TYPE: Balance Sheet Report
+REPORT_DATE: 2026-03-31
+STATUS: Verified
+
+ASSETS:
+CURRENT_ASSETS:
+Cash and Cash Equivalents: INR 480 CRORE
+Accounts Receivable: INR 214 CRORE
+Inventory Assets: INR 48 CRORE
+Short-Term Investments: INR 96 CRORE
+
+NON_CURRENT_ASSETS:
+Property and Equipment: INR 720 CRORE
+Cloud Infrastructure Assets: INR 860 CRORE
+Software Assets: INR 410 CRORE
+Long-Term Investments: INR 692 CRORE
+
+TOTAL_ASSETS:
+INR 3520 CRORE
+
+LIABILITIES:
+CURRENT_LIABILITIES:
+Accounts Payable: INR 168 CRORE
+Short-Term Debt: INR 142 CRORE
+Operational Liabilities: INR 118 CRORE
+
+LONG_TERM_LIABILITIES:
+Bank Loans: INR 420 CRORE
+Deferred Tax Liabilities: INR 132 CRORE
+
+TOTAL_LIABILITIES:
+INR 980 CRORE
+
+SHAREHOLDER_EQUITY:
+INR 2540 CRORE
+
+KEY_OBSERVATIONS:
+1. Strong asset growth supported expansion.
+2. Liquidity position remained stable.
+3. Debt-to-equity ratio remained healthy.
+4. Technology investments improved long-term value.
+
+====================================================================
+REPORT 07: EBITDA PERFORMANCE REPORT
+====================================================================
+
+REPORT_ID: FIN-007
+REPORT_TYPE: EBITDA Performance Report
+REPORT_DATE: 2026-03-31
+STATUS: Approved
+
+EBITDA_SUMMARY:
+NMap InfoTech achieved strong EBITDA growth during FY 2025-26 due to operational efficiency improvements and recurring enterprise revenue growth.
+
+KEY_FINANCIAL_DATA:
+TOTAL_REVENUE: INR 1280 CRORE
+TOTAL_OPERATING_EXPENSES: INR 922 CRORE
+EBITDA: INR 358 CRORE
+EBITDA_MARGIN: 28 PERCENT
+
+KEY_DRIVERS:
+1. Increased enterprise software adoption.
+2. Reduced procurement and infrastructure costs.
+3. AI automation improved operational efficiency.
+4. Cloud optimization reduced maintenance expenditure.
+5. Improved customer retention increased recurring revenue.
+
+BUSINESS_SEGMENT_PERFORMANCE:
+AI_SOLUTIONS_DIVISION: 34 PERCENT EBITDA MARGIN
+CYBERSECURITY_DIVISION: 31 PERCENT EBITDA MARGIN
+CLOUD_SERVICES_DIVISION: 26 PERCENT EBITDA MARGIN
+CONSULTING_DIVISION: 22 PERCENT EBITDA MARGIN
+
+RISKS_IDENTIFIED:
+1. Inflationary pressure on employee costs.
+2. Rising cybersecurity investment requirements.
+3. Delayed enterprise customer payments.
+

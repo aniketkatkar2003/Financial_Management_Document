@@ -1,0 +1,496 @@
+# NMAP INFOTECH
+
+# COMPANY VALUATION: INR 3000 CRORE
+
+# DOMAIN: ENTERPRISE TECHNOLOGY & FINANCIAL SERVICES
+
+# DATASET TYPE: FINANCIAL AUDIT & COMPLIANCE REPORTS
+
+# FORMAT: TXT FILE STYLE PROFESSIONAL DATA
+
+====================================================================
+COMPANY PROFILE
+===============
+
+COMPANY_NAME: NMap InfoTech
+INDUSTRY: Information Technology & Enterprise Solutions
+HEADQUARTERS: Mumbai, Maharashtra, India
+COMPANY_VALUATION: INR 3000 CRORE
+EMPLOYEE_COUNT: 5200
+FOUNDED_YEAR: 2009
+ANNUAL_REVENUE: INR 1280 CRORE
+BUSINESS_DOMAINS:
+
+* Cloud Computing
+* Enterprise AI Solutions
+* Cybersecurity
+* Financial Analytics
+* SaaS Products
+* IT Consulting
+* Data Engineering
+* ERP Solutions
+
+====================================================================
+REPORT 01: INTERNAL AUDIT REPORT – EXPENSE CONTROL REVIEW
+=========================================================
+
+REPORT_ID: AUD-001
+REPORT_TYPE: Internal Audit Report
+DEPARTMENT: Finance Operations
+PREPARED_BY: Internal Audit Division
+REPORT_DATE: 2026-03-10
+STATUS: Completed
+
+REPORT_SUMMARY:
+The Internal Audit Division of NMap InfoTech conducted a detailed review of employee expense reimbursement processes, departmental spending controls, and procurement approvals for the financial year 2025-26.
+
+KEY_FINDINGS:
+
+1. Multiple reimbursement claims were processed without proper managerial approval.
+2. Travel expense documentation was incomplete in 12 percent of reviewed transactions.
+3. Several departments exceeded approved quarterly expense budgets.
+4. Delayed submission of invoices impacted monthly financial reconciliation.
+5. Procurement approvals were not digitally tracked in older workflows.
+
+RISK_ASSESSMENT:
+Moderate operational risk due to weak documentation controls.
+
+RECOMMENDATIONS:
+
+* Implement automated expense approval workflows.
+* Enforce mandatory digital invoice uploads.
+* Introduce AI-powered expense anomaly detection.
+* Enable monthly budget variance monitoring.
+
+====================================================================
+REPORT 02: EXTERNAL AUDIT COMPLIANCE REPORT
+===========================================
+
+REPORT_ID: AUD-002
+REPORT_TYPE: External Audit Compliance
+AUDIT_FIRM: Deloitte Financial Advisory
+REPORT_DATE: 2026-03-18
+STATUS: Approved
+
+REPORT_SUMMARY:
+An external audit was conducted to evaluate statutory compliance, financial reporting standards, and governance practices followed by NMap InfoTech.
+
+KEY_FINDINGS:
+
+1. Financial statements complied with Indian Accounting Standards.
+2. GST filing procedures were properly maintained.
+3. Vendor tax documentation required additional verification.
+4. Quarterly disclosures matched regulatory filing requirements.
+5. Internal governance frameworks aligned with corporate standards.
+
+RECOMMENDATIONS:
+
+* Strengthen vendor onboarding verification.
+* Enhance cybersecurity controls for financial records.
+* Improve document retention procedures.
+
+====================================================================
+REPORT 03: FINANCIAL STATEMENT AUDIT REPORT
+===========================================
+
+REPORT_ID: AUD-003
+REPORT_TYPE: Financial Statement Audit
+REPORT_DATE: 2026-03-22
+STATUS: Verified
+
+REPORT_SUMMARY:
+The audit reviewed balance sheets, profit and loss statements, cash flow statements, and shareholder equity reports for FY 2025-26.
+
+KEY_FINANCIALS:
+TOTAL_REVENUE: INR 1280 CRORE
+NET_PROFIT: INR 242 CRORE
+EBITDA_MARGIN: 28 PERCENT
+TOTAL_ASSETS: INR 3520 CRORE
+TOTAL_LIABILITIES: INR 980 CRORE
+
+KEY_FINDINGS:
+
+1. Revenue growth increased by 18 percent year-over-year.
+2. Operating margins improved due to cloud infrastructure optimization.
+3. Delayed receivables impacted short-term liquidity planning.
+4. Debt-to-equity ratio remained within acceptable thresholds.
+
+====================================================================
+REPORT 04: INTERNAL CONTROL ASSESSMENT REPORT
+=============================================
+
+REPORT_ID: AUD-004
+REPORT_TYPE: Internal Control Assessment
+REPORT_DATE: 2026-03-25
+STATUS: Completed
+
+REPORT_SUMMARY:
+The Internal Control Assessment evaluated financial governance, authorization processes, and compliance monitoring systems.
+
+KEY_FINDINGS:
+
+1. Segregation of duties was properly maintained.
+2. Manual approval processes created operational delays.
+3. Legacy ERP modules lacked advanced audit logging.
+4. Financial workflows required stronger digital traceability.
+
+RECOMMENDATIONS:
+
+* Deploy centralized financial approval systems.
+* Enable AI-based transaction monitoring.
+* Upgrade ERP audit trail functionality.
+
+====================================================================
+REPORT 05: RISK-BASED AUDIT REPORT
+==================================
+
+REPORT_ID: AUD-005
+REPORT_TYPE: Risk-Based Audit
+REPORT_DATE: 2026-03-28
+STATUS: Completed
+
+REPORT_SUMMARY:
+The Risk Management Division analyzed operational, financial, and compliance risks affecting NMap InfoTech.
+
+KEY_RISKS_IDENTIFIED:
+
+1. Increased cybersecurity exposure in cloud infrastructure.
+2. Vendor dependency risk in software procurement.
+3. Revenue concentration risk from enterprise clients.
+4. Delayed invoice collections affecting liquidity.
+5. Data privacy compliance obligations under global regulations.
+
+RECOMMENDATIONS:
+
+* Diversify enterprise customer portfolio.
+* Strengthen cybersecurity monitoring.
+* Automate receivable collection reminders.
+
+====================================================================
+REPORT 06: ACCOUNTS PAYABLE AUDIT REPORT
+========================================
+
+REPORT_ID: AUD-006
+REPORT_TYPE: Accounts Payable Audit
+REPORT_DATE: 2026-04-01
+STATUS: Approved
+
+REPORT_SUMMARY:
+The audit reviewed supplier invoice processing, vendor payment approvals, and outstanding payable balances.
+
+KEY_FINDINGS:
+
+1. Several supplier invoices were processed after due dates.
+2. Duplicate payment risk existed due to manual entry workflows.
+3. Procurement reconciliation improved after ERP integration.
+4. Vendor payment delays impacted supplier relationships.
+
+RECOMMENDATIONS:
+
+* Introduce automated invoice validation.
+* Implement payment scheduling alerts.
+* Enable digital supplier reconciliation.
+
+====================================================================
+REPORT 07: ACCOUNTS RECEIVABLE AUDIT REPORT
+===========================================
+
+REPORT_ID: AUD-007
+REPORT_TYPE: Accounts Receivable Audit
+REPORT_DATE: 2026-04-04
+STATUS: Completed
+
+REPORT_SUMMARY:
+The audit analyzed customer outstanding balances, collection efficiency, and credit risk exposure.
+
+KEY_FINDINGS:
+
+1. Receivables above 90 days totaled INR 82 CRORE.
+2. Collection delays were concentrated among enterprise clients.
+3. Credit approval checks required stronger monitoring.
+4. Aging analysis indicated moderate liquidity exposure.
+
+RECOMMENDATIONS:
+
+* Tighten customer credit evaluation.
+* Introduce automated collection workflows.
+* Apply risk-based customer categorization.
+
+====================================================================
+REPORT 08: PROCUREMENT AUDIT REPORT
+===================================
+
+REPORT_ID: AUD-008
+REPORT_TYPE: Procurement Audit
+REPORT_DATE: 2026-04-06
+STATUS: Completed
+
+REPORT_SUMMARY:
+The procurement audit reviewed software licensing purchases, cloud infrastructure procurement, and vendor contract approvals.
+
+KEY_FINDINGS:
+
+1. Procurement approvals exceeded SLA timelines.
+2. Vendor pricing comparisons were inconsistently documented.
+3. Cloud infrastructure contracts required stronger negotiation.
+4. Procurement analytics improved after AI integration.
+
+RECOMMENDATIONS:
+
+* Centralize procurement governance.
+* Automate vendor comparison analysis.
+* Maintain digital procurement records.
+
+====================================================================
+REPORT 09: VENDOR COMPLIANCE AUDIT REPORT
+=========================================
+
+REPORT_ID: AUD-009
+REPORT_TYPE: Vendor Compliance Audit
+REPORT_DATE: 2026-04-09
+STATUS: Approved
+
+REPORT_SUMMARY:
+The Vendor Compliance Audit evaluated supplier adherence to legal, cybersecurity, and contractual obligations.
+
+KEY_FINDINGS:
+
+1. Some vendors lacked updated compliance certificates.
+2. Cybersecurity assessments were pending for third-party providers.
+3. Vendor onboarding documentation required standardization.
+4. Service-level agreement monitoring improved operational transparency.
+
+RECOMMENDATIONS:
+
+* Conduct quarterly vendor compliance reviews.
+* Introduce mandatory cybersecurity audits.
+* Maintain centralized vendor risk dashboards.
+
+====================================================================
+REPORT 10: TAX AUDIT REPORT
+===========================
+
+REPORT_ID: AUD-010
+REPORT_TYPE: Tax Audit
+REPORT_DATE: 2026-04-12
+STATUS: Verified
+
+REPORT_SUMMARY:
+The Tax Audit reviewed GST compliance, corporate tax filings, TDS deductions, and statutory financial obligations.
+
+KEY_FINDINGS:
+
+1. GST filings were completed within regulatory timelines.
+2. Minor discrepancies were identified in vendor GST reconciliation.
+3. TDS deduction records matched payroll data.
+4. Tax documentation procedures aligned with compliance standards.
+
+RECOMMENDATIONS:
+
+* Improve GST reconciliation automation.
+* Enable AI-based tax anomaly detection.
+* Strengthen supplier GST verification.
+
+====================================================================
+REPORT 11: PAYROLL AUDIT REPORT
+===============================
+
+REPORT_ID: AUD-011
+REPORT_TYPE: Payroll Audit
+REPORT_DATE: 2026-04-15
+STATUS: Completed
+
+REPORT_SUMMARY:
+The Payroll Audit reviewed salary processing, tax deductions, employee benefits, and payroll compliance controls.
+
+KEY_FINDINGS:
+
+1. Payroll processing accuracy exceeded 99 percent.
+2. Overtime approval documentation required improvement.
+3. Automated salary reconciliation reduced payroll errors.
+4. Employee tax records aligned with statutory requirements.
+
+RECOMMENDATIONS:
+
+* Enhance overtime approval workflows.
+* Maintain centralized payroll compliance tracking.
+
+====================================================================
+REPORT 12: INVENTORY AUDIT REPORT
+=================================
+
+REPORT_ID: AUD-012
+REPORT_TYPE: Inventory Audit
+REPORT_DATE: 2026-04-18
+STATUS: Completed
+
+REPORT_SUMMARY:
+The Inventory Audit reviewed IT hardware assets, cloud infrastructure inventory, and software licensing records.
+
+KEY_FINDINGS:
+
+1. Asset tagging accuracy improved after ERP integration.
+2. Unused software licenses increased operational costs.
+3. Hardware inventory reconciliation required quarterly verification.
+4. Inventory tracking automation improved operational efficiency.
+
+RECOMMENDATIONS:
+
+* Optimize software license allocation.
+* Conduct quarterly asset verification.
+* Deploy AI-based inventory analytics.
+
+====================================================================
+REPORT 13: FIXED ASSET AUDIT REPORT
+===================================
+
+REPORT_ID: AUD-013
+REPORT_TYPE: Fixed Asset Audit
+REPORT_DATE: 2026-04-21
+STATUS: Approved
+
+REPORT_SUMMARY:
+The audit evaluated office infrastructure, technology equipment, and long-term capital assets.
+
+KEY_FINDINGS:
+
+1. Asset depreciation schedules were accurately maintained.
+2. Certain leased assets lacked updated documentation.
+3. Capital expenditure tracking improved after ERP automation.
+4. Physical asset verification matched accounting records.
+
+RECOMMENDATIONS:
+
+* Improve leased asset documentation.
+* Maintain centralized fixed asset registers.
+
+====================================================================
+REPORT 14: CASH MANAGEMENT AUDIT REPORT
+=======================================
+
+REPORT_ID: AUD-014
+REPORT_TYPE: Cash Management Audit
+REPORT_DATE: 2026-04-24
+STATUS: Completed
+
+REPORT_SUMMARY:
+The Cash Management Audit reviewed liquidity reserves, treasury planning, and operational cash flow management.
+
+KEY_FINDINGS:
+
+1. Operating cash flow remained stable throughout FY 2025-26.
+2. Treasury reserves supported ongoing expansion initiatives.
+3. Delayed receivables impacted short-term liquidity.
+4. Banking relationships supported flexible financing options.
+
+RECOMMENDATIONS:
+
+* Maintain minimum liquidity reserves.
+* Automate treasury forecasting models.
+
+====================================================================
+REPORT 15: OPERATIONAL AUDIT REPORT
+===================================
+
+REPORT_ID: AUD-015
+REPORT_TYPE: Operational Audit
+REPORT_DATE: 2026-04-27
+STATUS: Completed
+
+REPORT_SUMMARY:
+The Operational Audit assessed workflow efficiency, resource allocation, and operational governance across departments.
+
+KEY_FINDINGS:
+
+1. AI automation improved workflow productivity.
+2. Manual approval delays impacted operational efficiency.
+3. ERP integrations reduced administrative workload.
+4. Operational KPIs exceeded projected targets.
+
+RECOMMENDATIONS:
+
+* Expand AI-driven automation.
+* Improve cross-departmental coordination.
+
+====================================================================
+REPORT 16: FRAUD DETECTION AUDIT REPORT
+=======================================
+
+REPORT_ID: AUD-016
+REPORT_TYPE: Fraud Detection Audit
+REPORT_DATE: 2026-05-01
+STATUS: Verified
+
+REPORT_SUMMARY:
+The Fraud Detection Audit analyzed financial transactions, vendor payments, and reimbursement workflows for suspicious activity.
+
+KEY_FINDINGS:
+
+1. No major fraud cases were identified.
+2. Duplicate reimbursement attempts were automatically blocked.
+3. AI anomaly detection improved transaction monitoring.
+4. Vendor payment verification reduced fraud exposure.
+
+RECOMMENDATIONS:
+
+* Continue AI-based fraud analytics.
+* Conduct quarterly fraud risk assessments.
+
+====================================================================
+REPORT 17: REGULATORY COMPLIANCE AUDIT REPORT
+=============================================
+
+REPORT_ID: AUD-017
+REPORT_TYPE: Regulatory Compliance Audit
+REPORT_DATE: 2026-05-05
+STATUS: Approved
+
+REPORT_SUMMARY:
+The Regulatory Compliance Audit reviewed adherence to financial regulations, cybersecurity standards, and statutory reporting requirements.
+
+KEY_FINDINGS:
+
+1. Regulatory filings were submitted within deadlines.
+2. Data protection compliance frameworks were effective.
+3. Cloud security audits aligned with industry standards.
+4. Compliance monitoring dashboards improved transparency.
+
+RECOMMENDATIONS:
+
+* Expand compliance automation tools.
+* Strengthen cybersecurity awareness programs.
+
+====================================================================
+REPORT 18: REVENUE RECOGNITION AUDIT REPORT
+===========================================
+
+REPORT_ID: AUD-018
+REPORT_TYPE: Revenue Recognition Audit
+REPORT_DATE: 2026-05-08
+STATUS: Completed
+
+REPORT_SUMMARY:
+The Revenue Recognition Audit evaluated revenue accounting practices for SaaS subscriptions, consulting services, and enterprise contracts.
+
+KEY_FINDINGS:
+
+1. Revenue recognition aligned with accounting standards.
+2. Subscription billing automation reduced reporting errors.
+3. Deferred revenue calculations were accurately maintained.
+4. Contract modifications required additional approval tracking.
+
+RECOMMENDATIONS:
+
+* Strengthen contract review procedures.
+* Automate deferred revenue reporting.
+
+====================================================================
+REPORT 19: IT FINANCIAL SYSTEMS AUDIT REPORT
+============================================
+
+REPORT_ID: AUD-019
+REPORT_TYPE: IT Financial Systems Audit
+REPORT_DATE: 2026-05-12
+STATUS: Completed
+
+

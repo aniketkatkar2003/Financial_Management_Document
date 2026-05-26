@@ -1,0 +1,21 @@
+REPORT 14: CASH MANAGEMENT AUDIT REPORT
+
+REPORT_ID: AUD-014
+REPORT_TYPE: Cash Management Audit
+REPORT_DATE: 2026-04-24
+STATUS: Completed
+
+REPORT_SUMMARY:
+The Cash Management Audit reviewed liquidity reserves, treasury planning, and operational cash flow management.
+
+KEY_FINDINGS:
+
+1. Operating cash flow remained stable throughout FY 2025-26.
+2. Treasury reserves supported ongoing expansion initiatives.
+3. Delayed receivables impacted short-term liquidity.
+4. Banking relationships supported flexible financing options.
+
+RECOMMENDATIONS:
+
+* Maintain minimum liquidity reserves.
+* Automate treasury forecasting models.
