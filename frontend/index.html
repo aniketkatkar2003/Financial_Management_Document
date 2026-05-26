@@ -1,0 +1,427 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AuraFinance - Semantic Financial Document Management</title>
+    <meta name="description" content="AI-Powered semantic financial document analytics, retrieval, and insight synthesis dashboard.">
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <!-- FontAwesome Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body class="dark-mode">
+    <div id="app">
+        <!-- Auth View -->
+        <div id="auth-container" class="auth-view hidden">
+            <div class="auth-card">
+                <div class="auth-header">
+                    <div class="logo">
+                        <i class="fa-solid fa-triangle-exclamation logo-icon"></i>
+                        <span>AuraFinance</span>
+                    </div>
+                    <h2>Welcome to Semantic Analytics</h2>
+                    <p>Register or log in to begin indexing financial insights.</p>
+                </div>
+                
+                <div class="auth-tabs">
+                    <button id="tab-login" class="auth-tab active">Log In</button>
+                    <button id="tab-register" class="auth-tab">Register</button>
+                </div>
+
+                <!-- Login Form -->
+                <form id="login-form" class="auth-form">
+                    <div class="form-group">
+                        <label for="login-username"><i class="fa-solid fa-user"></i> Username</label>
+                        <input type="text" id="login-username" required placeholder="e.g. analyst123">
+                    </div>
+                    <div class="form-group">
+                        <label for="login-password"><i class="fa-solid fa-lock"></i> Password</label>
+                        <input type="password" id="login-password" required placeholder="••••••••">
+                    </div>
+                    <button type="submit" class="btn btn-primary btn-block">Log In <i class="fa-solid fa-arrow-right"></i></button>
+                </form>
+
+                <!-- Register Form -->
+                <form id="register-form" class="auth-form hidden">
+                    <div class="form-group">
+                        <label for="reg-username"><i class="fa-solid fa-user"></i> Username</label>
+                        <input type="text" id="reg-username" required placeholder="e.g. analyst_corp">
+                    </div>
+                    <div class="form-group">
+                        <label for="reg-email"><i class="fa-solid fa-envelope"></i> Email Address</label>
+                        <input type="email" id="reg-email" required placeholder="e.g. analyst@company.com">
+                    </div>
+                    <div class="form-group">
+                        <label for="reg-company"><i class="fa-solid fa-building"></i> Company Name</label>
+                        <input type="text" id="reg-company" required placeholder="e.g. NMap InfoTech">
+                    </div>
+                    <div class="form-group">
+                        <label for="reg-password"><i class="fa-solid fa-lock"></i> Password</label>
+                        <input type="password" id="reg-password" required placeholder="Minimum 6 characters">
+                    </div>
+                    <button type="submit" class="btn btn-primary btn-block">Create Account <i class="fa-solid fa-user-plus"></i></button>
+                </form>
+                
+                <div class="auth-footer">
+                    <span id="auth-switch-text">Don't have an account? Switch tab above.</span>
+                </div>
+            </div>
+        </div>
+
+        <!-- Main Dashboard View -->
+        <div id="dashboard-container" class="dashboard-view">
+            <!-- Sidebar Navigation -->
+            <aside class="sidebar">
+                <div class="sidebar-header">
+                    <div class="logo">
+                        <i class="fa-solid fa-chart-line logo-icon"></i>
+                        <span>AuraFinance</span>
+                    </div>
+                </div>
+                
+                <div class="user-profile-widget">
+                    <div class="avatar">
+                        <i class="fa-solid fa-user-tie"></i>
+                    </div>
+                    <div class="user-details">
+                        <h4 id="user-display-name">Username</h4>
+                        <span id="user-display-role" class="badge-role">Financial Analyst</span>
+                        <span id="user-display-company" class="company-text">NMap InfoTech</span>
+                    </div>
+                </div>
+
+                <nav class="sidebar-nav">
+                    <ul>
+                        <li><a href="#" class="nav-link active" data-target="panel-home"><i class="fa-solid fa-house"></i> Overview</a></li>
+                        <li><a href="#" class="nav-link" data-target="panel-documents"><i class="fa-solid fa-file-invoice-dollar"></i> Document Library</a></li>
+                        <li><a href="#" class="nav-link" data-target="panel-semantic-chat"><i class="fa-solid fa-brain"></i> Semantic Analytics</a></li>
+                        <li><a href="#" class="nav-link" data-target="panel-rbac" id="nav-rbac-link"><i class="fa-solid fa-user-shield"></i> Access Control</a></li>
+                    </ul>
+                </nav>
+
+                <div class="sidebar-footer">
+                    <button id="btn-logout" class="btn btn-danger-outline btn-block"><i class="fa-solid fa-right-from-bracket"></i> Log Out</button>
+                </div>
+            </aside>
+
+            <!-- Main Content Pane -->
+            <main class="main-content">
+                <!-- Header Banner -->
+                <header class="content-header">
+                    <div class="header-left">
+                        <h1 id="panel-title">Overview Dashboard</h1>
+                        <p id="panel-subtitle">Comprehensive financial tracking and RAG retrieval hub.</p>
+                    </div>
+                    <div class="header-right">
+                        <div class="server-status">
+                            <span class="status-indicator online"></span>
+                            <span>System Cloud Connected</span>
+                        </div>
+                    </div>
+                </header>
+
+                <div class="content-container">
+                    
+                    <!-- 1. Home / Overview Panel -->
+                    <div id="panel-home" class="content-panel">
+                        <div class="stats-grid">
+                            <div class="stat-card">
+                                <div class="stat-icon"><i class="fa-solid fa-file-pdf text-indigo"></i></div>
+                                <div class="stat-info">
+                                    <h3>Total Documents</h3>
+                                    <p id="stat-doc-count">-</p>
+                                </div>
+                            </div>
+                            <div class="stat-card">
+                                <div class="stat-icon"><i class="fa-solid fa-vector-square text-emerald"></i></div>
+                                <div class="stat-info">
+                                    <h3>Vector Base Chunks</h3>
+                                    <p id="stat-chunk-count">-</p>
+                                </div>
+                            </div>
+                            <div class="stat-card">
+                                <div class="stat-icon"><i class="fa-solid fa-shield-halved text-amber"></i></div>
+                                <div class="stat-info">
+                                    <h3>User Authorization</h3>
+                                    <p id="stat-user-permission">-</p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="grid-2-1 mt-20">
+                            <!-- Feature Intro -->
+                            <div class="panel-card glass">
+                                <h3><i class="fa-solid fa-cube header-icon text-indigo"></i> Smart Document Processing Workflow</h3>
+                                <p class="intro-p">AuraFinance orchestrates semantic ingestion pipeline that processes invoices, audit reports, and agreements dynamically. Every uploaded record undergoes high-accuracy tokenization, Sentence-Transformer vector embedding, and is indexed immediately in Qdrant cluster.</p>
+                                
+                                <div class="flow-steps">
+                                    <div class="flow-step">
+                                        <div class="step-num">1</div>
+                                        <h4>Text Extraction</h4>
+                                        <p>Converts uploaded formats into pure UTF-8 encoded text.</p>
+                                    </div>
+                                    <div class="flow-step">
+                                        <div class="step-num">2</div>
+                                        <h4>Semantic Slicing</h4>
+                                        <p>Breaks documents into structured character-bounded paragraphs.</p>
+                                    </div>
+                                    <div class="flow-step">
+                                        <div class="step-num">3</div>
+                                        <h4>Vectorization</h4>
+                                        <p>Generates dense 384d semantic vectors locally.</p>
+                                    </div>
+                                    <div class="flow-step">
+                                        <div class="step-num">4</div>
+                                        <h4>Llama 3.1 & Reranker</h4>
+                                        <p>Reranks findings with Llama 3.2 NIM and generates final insights.</p>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!-- User Info Widget -->
+                            <div class="panel-card glass flex-col-between">
+                                <div>
+                                    <h3><i class="fa-solid fa-circle-user header-icon text-violet"></i> Profile Status</h3>
+                                    <ul class="profile-details-list">
+                                        <li><strong>Authorized Email:</strong> <span id="prof-email">-</span></li>
+                                        <li><strong>Active Company Profile:</strong> <span id="prof-company">-</span></li>
+                                        <li><strong>Roles Assigned:</strong> <span id="prof-roles" class="badge-role">None</span></li>
+                                        <li><strong>Scope Boundaries:</strong> <span class="badge-status success">Active</span></li>
+                                    </ul>
+                                </div>
+                                <div class="rbac-box-notice">
+                                    <i class="fa-solid fa-lock-open notice-icon"></i>
+                                    <p>Your access is governed by Role-Based Access Control (RBAC). Document visibility is bounded strictly by your company profile.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- 2. Documents Management Panel -->
+                    <div id="panel-documents" class="content-panel hidden">
+                        <div class="action-bar mb-20">
+                            <!-- Filters & Search -->
+                            <div class="search-filters">
+                                <div class="filter-group">
+                                    <i class="fa-solid fa-magnifying-glass"></i>
+                                    <input type="text" id="doc-filter-title" placeholder="Search by title...">
+                                </div>
+                                <div class="filter-group">
+                                    <i class="fa-solid fa-building"></i>
+                                    <input type="text" id="doc-filter-company" placeholder="Search by company...">
+                                </div>
+                                <div class="filter-group">
+                                    <select id="doc-filter-type">
+                                        <option value="">All Types</option>
+                                        <option value="invoice">Invoices</option>
+                                        <option value="report">Reports</option>
+                                        <option value="contract">Contracts / Agreements</option>
+                                    </select>
+                                </div>
+                                <button id="btn-filter-search" class="btn btn-primary-outline"><i class="fa-solid fa-filter"></i> Apply Filters</button>
+                            </div>
+                            
+                            <!-- Action button (Upload) -->
+                            <button id="btn-trigger-upload-modal" class="btn btn-success"><i class="fa-solid fa-cloud-arrow-up"></i> Upload Document</button>
+                        </div>
+
+                        <!-- Documents Table Card -->
+                        <div class="panel-card glass table-card">
+                            <table class="data-table">
+                                <thead>
+                                    <tr>
+                                        <th>Document Title</th>
+                                        <th>Company Scope</th>
+                                        <th>Document Type</th>
+                                        <th>Uploaded On</th>
+                                        <th>Status</th>
+                                        <th>Actions</th>
+                                    </tr>
+                                </thead>
+                                <tbody id="documents-table-body">
+                                    <tr>
+                                        <td colspan="6" class="text-center">Loading files from database...</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+
+                    <!-- 3. RAG Semantic Chat Panel -->
+                    <div id="panel-semantic-chat" class="content-panel hidden">
+                        <div class="chat-container">
+                            <div class="chat-sidebar glass">
+                                <h3><i class="fa-solid fa-circle-nodes text-indigo"></i> Vector Retrieval</h3>
+                                <p class="sidebar-p">Semantic search searches concepts rather than strings by aligning your query embedding with document vectors in Qdrant.</p>
+                                
+                                <div class="vector-features-box">
+                                    <div class="feature-item">
+                                        <i class="fa-solid fa-check text-emerald"></i>
+                                        <span>Local SentenceTransformers</span>
+                                    </div>
+                                    <div class="feature-item">
+                                        <i class="fa-solid fa-check text-emerald"></i>
+                                        <span>Cosine Distance In Qdrant</span>
+                                    </div>
+                                    <div class="feature-item">
+                                        <i class="fa-solid fa-check text-emerald"></i>
+                                        <span>NVIDIA NIM Llama Reranking</span>
+                                    </div>
+                                </div>
+
+                                <div class="sample-queries">
+                                    <h4>Suggested Queries</h4>
+                                    <button class="sample-query-btn">financial risk related to high debt ratio</button>
+                                    <button class="sample-query-btn">manufacturing cost savings from automation</button>
+                                    <button class="sample-query-btn">key recommendations in payroll audit report</button>
+                                </div>
+                            </div>
+                            
+                            <div class="chat-main glass">
+                                <div class="chat-header">
+                                    <div class="chat-header-info">
+                                        <i class="fa-solid fa-brain chat-icon"></i>
+                                        <div>
+                                            <h4>RAG Cognitive Copilot</h4>
+                                            <span>Llama-3.1-70b-instruct synthesis engine</span>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <!-- Chat Bubble log -->
+                                <div id="chat-messages-log" class="chat-messages-log">
+                                    <div class="chat-bubble bot">
+                                        <div class="bubble-content">
+                                            <p>Hello! I am your cognitive financial auditor. Submit a question regarding your documents, and I'll generate semantic insights, retrieve background vectors, and summarize key recommendations.</p>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <!-- Input Box -->
+                                <div class="chat-input-area">
+                                    <form id="chat-query-form" class="chat-input-form">
+                                        <input type="text" id="chat-query-input" autocomplete="off" required placeholder="Query financial reports, invoices, or metrics...">
+                                        <button type="submit" id="btn-submit-query" class="btn btn-primary"><i class="fa-solid fa-paper-plane"></i></button>
+                                    </form>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Source Chunks Container -->
+                        <div id="sources-container" class="panel-card glass mt-20 hidden">
+                            <h3><i class="fa-solid fa-link text-violet header-icon"></i> Sourced Vector Evidence (Reranked Top 5)</h3>
+                            <div id="source-chunks-grid" class="source-chunks-grid">
+                                <!-- Populated dynamically -->
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- 4. RBAC Administration Panel -->
+                    <div id="panel-rbac" class="content-panel hidden">
+                        <div class="grid-2-1">
+                            <!-- Role Assignment Panel -->
+                            <div class="panel-card glass">
+                                <h3><i class="fa-solid fa-id-card-clip header-icon text-indigo"></i> Modify User Role Access</h3>
+                                <form id="rbac-assign-form" class="standard-form mt-20">
+                                    <div class="form-group">
+                                        <label for="rbac-user-id"><i class="fa-solid fa-id-badge"></i> Target User ID</label>
+                                        <input type="number" id="rbac-user-id" required placeholder="e.g. 2">
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="rbac-role-name"><i class="fa-solid fa-user-shield"></i> Target Role</label>
+                                        <select id="rbac-role-name" required>
+                                            <option value="Admin">Admin (Full access)</option>
+                                            <option value="Financial Analyst">Financial Analyst (Upload & edit)</option>
+                                            <option value="Auditor">Auditor (Review & audit)</option>
+                                            <option value="Client">Client (View company profile only)</option>
+                                        </select>
+                                    </div>
+                                    <button type="submit" class="btn btn-indigo">Apply Role Mapping <i class="fa-solid fa-check"></i></button>
+                                </form>
+                            </div>
+
+                            <!-- Schema Mapping explanation -->
+                            <div class="panel-card glass">
+                                <h3><i class="fa-solid fa-shield-halved header-icon text-amber"></i> Core Role Permissions Definition</h3>
+                                <div class="rbac-description-grid mt-20">
+                                    <div class="rbac-rule-card">
+                                        <h4>Admin</h4>
+                                        <span class="badge-role">full_access</span>
+                                        <p>Has unrestricted root capability. Can index, modify databases, assign security tags, and remove documents.</p>
+                                    </div>
+                                    <div class="rbac-rule-card">
+                                        <h4>Financial Analyst</h4>
+                                        <span class="badge-role">upload_document</span>
+                                        <p>Authorized to upload files and execute document modifications inside their own company boundaries.</p>
+                                    </div>
+                                    <div class="rbac-rule-card">
+                                        <h4>Auditor</h4>
+                                        <span class="badge-role">review_document</span>
+                                        <p>Granted system-wide read capabilities to review, perform calculations, and inspect document indices.</p>
+                                    </div>
+                                    <div class="rbac-rule-card">
+                                        <h4>Client</h4>
+                                        <span class="badge-role">view_document</span>
+                                        <p>Strictly restricted to viewing public information and documents tagged directly with their company metadata.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </main>
+        </div>
+
+        <!-- 5. Document Upload Modal -->
+        <div id="upload-modal" class="modal hidden">
+            <div class="modal-backdrop"></div>
+            <div class="modal-card">
+                <div class="modal-header">
+                    <h3><i class="fa-solid fa-cloud-arrow-up text-indigo"></i> Upload New Financial Document</h3>
+                    <button id="btn-close-upload-modal" class="btn-close-modal">&times;</button>
+                </div>
+                <form id="upload-document-form" class="modal-form">
+                    <div class="form-group">
+                        <label for="upload-title"><i class="fa-solid fa-signature"></i> Document Title</label>
+                        <input type="text" id="upload-title" required placeholder="e.g. Q4 Financial Audit Balance Sheet">
+                    </div>
+                    <div class="form-group">
+                        <label for="upload-company"><i class="fa-solid fa-building"></i> Company Name</label>
+                        <input type="text" id="upload-company" required placeholder="e.g. NMap InfoTech">
+                    </div>
+                    <div class="form-group">
+                        <label for="upload-type"><i class="fa-solid fa-tag"></i> Document Type</label>
+                        <select id="upload-type" required>
+                            <option value="report">Financial Report / Dataset</option>
+                            <option value="invoice">Commercial Invoice / Accounts Receivable</option>
+                            <option value="contract">Legal Agreement / NDA Contract</option>
+                        </select>
+                    </div>
+                    <div class="form-group file-upload-group">
+                        <label for="upload-file" class="file-dropzone">
+                            <i class="fa-solid fa-file-lines dropzone-icon"></i>
+                            <span>Select plain text document (.txt)</span>
+                            <input type="file" id="upload-file" required accept=".txt">
+                        </label>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" id="btn-cancel-upload" class="btn btn-secondary">Cancel</button>
+                        <button type="submit" class="btn btn-primary">Process Ingestion <i class="fa-solid fa-gear fa-spin-hover"></i></button>
+                    </div>
+                </form>
+            </div>
+        </div>
+
+        <!-- Toast Notifications -->
+        <div id="toast-container" class="toast-container"></div>
+    </div>
+
+    <!-- Scripts -->
+    <script src="app.js"></script>
+</body>
+</html>
