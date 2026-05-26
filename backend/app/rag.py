@@ -44,7 +44,7 @@ def init_qdrant_collection():
         
         print(f"Warning: Failed to auto-initialize Qdrant collection: {e}")
 
-# Call collection builder on import
+#Call collection builder on import
 init_qdrant_collection()
 
 def chunk_text(text: str, chunk_size: int = 700, overlap: int = 150) -> List[str]:
