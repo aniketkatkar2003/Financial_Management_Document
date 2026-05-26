@@ -31,7 +31,7 @@ class TokenData(BaseModel):
     username: Optional[str] = None
     user_id: Optional[int] = None
 
-# --- Role & Permission Schemas ---
+#Role & Permission Schemas
 
 class RoleCreate(BaseModel):
     name: str

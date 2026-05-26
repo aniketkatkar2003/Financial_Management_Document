@@ -95,7 +95,7 @@ def startup_db_setup():
         db.close()
 
 
-#  Authentication Endpoints 
+#Authentication Endpoints 
 
 @app.post("/auth/register", response_model=UserOut, status_code=status.HTTP_201_CREATED)
 def register(user_data: UserRegister, db: Session = Depends(get_db)):
@@ -145,7 +145,7 @@ def login(form_data: UserRegister, db: Session = Depends(get_db)):
     return {"access_token": access_token, "token_type": "bearer"}
 
 
-# Role & Permission Endpoints
+#Role & Permission Endpoints
 @app.post("/roles/create", response_model=RoleOut)
 def create_role(role_data: RoleCreate, db: Session = Depends(get_db), current_user: User = Depends(PermissionChecker("full_access"))):
     if db.query(Role).filter(Role.name == role_data.name).first():
@@ -197,7 +197,7 @@ def get_user_permissions_endpoint(id: int, db: Session = Depends(get_db), curren
     return {"user_id": target_user.id, "username": target_user.username, "permissions": perms}
 
 
-# Document Management Endpoints 
+#Document Management Endpoints 
 
 @app.post("/documents/upload", response_model=DocumentOut)
 def upload_document(
@@ -356,7 +356,7 @@ def search_documents_by_metadata(
     ]
 
 
-# RAG & Semantic Analytics Endpoints 
+#RAG & Semantic Analytics Endpoints 
 
 @app.post("/rag/index-document")
 def index_document(document_id: str, db: Session = Depends(get_db), current_user: User = Depends(PermissionChecker("upload_document"))):
@@ -439,7 +439,7 @@ def get_related_document_context(document_id: str, db: Session = Depends(get_db)
     )
 
 
-# Serve Single Page Application Frontend 
+#Serve Single Page Application Frontend 
 
 frontend_path = os.path.join(os.path.dirname(os.path.dirname(__file__)), "frontend")
 if os.path.exists(frontend_path):
