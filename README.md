@@ -10,7 +10,7 @@ A document management system using Retrieval-Augmented Generation (RAG) for sema
 
 ## Tech Stack
 - **Backend:** FastAPI, SQLAlchemy, SQLite, Qdrant (Vector DB), Sentence Transformers
-- **Frontend:** HTML, CSS, Vanilla JavaScript
+- **Frontend:** HTML, CSS, Vanilla JavaScript.
 
 ## Setup Instructions
 
